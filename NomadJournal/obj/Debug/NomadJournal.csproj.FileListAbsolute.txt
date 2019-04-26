@@ -1,0 +1,13 @@
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\NomadJournal.exe.config
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\NomadJournal.exe
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\NomadJournal.pdb
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\EntityFramework.dll
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\EntityFramework.xml
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\obj\Debug\NomadJournal.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\obj\Debug\NomadJournal.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\obj\Debug\NomadJournal.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\obj\Debug\NomadJournal.exe
+C:\Users\РахимовС\source\repos\NomadJournal\NomadJournal\obj\Debug\NomadJournal.pdb
